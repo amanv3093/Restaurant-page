@@ -1,2 +1,4 @@
-#Hosted Link:[https://quote-page-reactjs.vercel.app/]
+#Hosted Link:[restaurant-page-gilt.vercel.app
+Resources
+]
 
